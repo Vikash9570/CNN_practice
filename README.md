@@ -1,2 +1,2 @@
 # CNN_practice
-##image manupulation and convolution done
+## image manupulation and convolution done
